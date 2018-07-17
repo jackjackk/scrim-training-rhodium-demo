@@ -1,0 +1,15 @@
+numpy==1.14.5
+scipy==1.1.0
+matplotlib==2.2.2
+mpldatacursor==0.6.2
+pandas==0.23.3
+six==1.11.0
+PRIM==0.4
+scikit-learn==0.19.2
+seaborn==0.9.0
+SALib
+pydotplus==2.0.2
+-e git://github.com/jackjackk/Platypus.git@01e03441bcc53e1528be73958e98239236f983b7#egg=Platypus
+-e git://github.com/jackjackk/Rhodium.git@38e526d8674b7b7dc1a106fd534fb649abb0c5f1#egg=Rhodium
+notebook==5.6.0
+jupyter==1.0.0
